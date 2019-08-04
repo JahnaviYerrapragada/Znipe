@@ -1,6 +1,6 @@
 Znipe Twit API:
 
-This project has API's for  four services to follow user, unfollow user , to get the followers and to the User Tweets by the followers.
+This project has API's for  four services to follow user, unfollow user , to get the followers and to fetch the User Tweets by the followers.
 There is Token Generator API to generate a JWT Token.
 
 
